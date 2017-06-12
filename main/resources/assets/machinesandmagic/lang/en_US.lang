@@ -1,0 +1,28 @@
+# Items
+item.diamond.name=Rough Diamond
+item.emerald.name=Brilliant Emerald
+
+item.ingot_copper.name=Copper Ingot
+item.ingot_tin.name=Tin Ingot
+
+item.crystal_air.name=Aer Crystal
+item.crystal_earth.name=Urth Crystal
+item.crystal_fire.name=Phyre Crystal
+item.crystal_water.name=Waatr Crystal
+item.crystal_glass.name=Glass Crystal
+item.crystal_light.name=Lyte Crystal
+item.crystal_dark.name=Daak Crystal
+
+# Blocks
+tile.emerald_ore.name=Brilliant Emerald Ore
+
+tile.ore_copper.name=Copper Ore
+tile.block_copper.name=Block of Copper
+
+tile.ore_tin.name=Tin Ore
+tile.block_tin.name=Block of Tin
+
+tile.essence_remover.name=Magical De-Essencer
+
+# Creative Tabs
+itemGroup.machinesandmagic=Machines and Magic Core
